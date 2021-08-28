@@ -1,4 +1,5 @@
 ## Welcome to Random Password Generator!
+An application that help users to generate a random password.
 
 #### Please follow the directions below:
 
